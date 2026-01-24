@@ -19,6 +19,22 @@ Topics covered:
 - day01_pandas_basics.ipynb  
   Covers data loading, inspection, handling missing values, and feature creation.
 
+## Day 2 – Advanced NumPy & Linear Regression
+
+### Topics Covered
+- Advanced NumPy operations and vectorization
+- Exploratory Data Analysis (EDA)
+- Data visualization using Matplotlib
+- Train-test split
+- Linear Regression model training
+- Model evaluation using MSE and R²
+- Underfitting analysis
+
+### Key Learnings
+- Visualization helps in selecting appropriate models
+- Linear regression can underfit when features are insufficient
+- Evaluation metrics confirm model limitations
+
 ## Tools Used
 
 - Python 3.10
@@ -36,20 +52,4 @@ Topics covered:
 ## Goal
 
 To build strong fundamentals in Python and data handling as a foundation for Machine Learning and AI projects.
-
-## Day 2 – Advanced NumPy & Linear Regression
-
-### Topics Covered
-- Advanced NumPy operations and vectorization
-- Exploratory Data Analysis (EDA)
-- Data visualization using Matplotlib
-- Train-test split
-- Linear Regression model training
-- Model evaluation using MSE and R²
-- Underfitting analysis
-
-### Key Learnings
-- Visualization helps in selecting appropriate models
-- Linear regression can underfit when features are insufficient
-- Evaluation metrics confirm model limitations
 
