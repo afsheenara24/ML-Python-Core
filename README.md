@@ -39,20 +39,20 @@ Topics covered:
 
 ### Topics Covered
 
--Polynomial feature transformation
--Linear vs Polynomial Regression
--Train-test split for model validation
--Model performance comparison
--Evaluation metrics: R², MAE, RMSE
--Bias–variance tradeoff
--Overfitting and underfitting analysis
+- Polynomial feature transformation
+- Linear vs Polynomial Regression
+- Train-test split for model validation
+- Model performance comparison
+- Evaluation metrics: R², MAE, RMSE
+- Bias–variance tradeoff
+- Overfitting and underfitting analysis
 
 ## Key Learnings
--Polynomial regression captures non-linear relationships better than linear models
--Higher model complexity can lead to overfitting if not controlled
--Train-test split helps detect generalization issues
--R² alone is insufficient to evaluate model performance.
--Error-based metrics like MAE and RMSE provide real-world insight into prediction accuracy
+- Polynomial regression captures non-linear relationships better than linear models
+- Higher model complexity can lead to overfitting if not controlled
+- Train-test split helps detect generalization issues
+- R² alone is insufficient to evaluate model performance.
+- Error-based metrics like MAE and RMSE provide real-world insight into prediction accuracy
 
 ## Tools Used
 
