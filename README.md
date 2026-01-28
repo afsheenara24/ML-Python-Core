@@ -4,14 +4,14 @@ This repository contains my Day 1 work for building strong Machine Learning foun
 
 ## Day 1 – Python for Machine Learning
 
-## Topics covered:
+### Topics covered:
 - Python basics for ML (functions, list comprehension, lambda)
 - NumPy fundamentals (ndarray, vectorization, broadcasting)
 - Performance comparison: loops vs vectorized operations
 - Pandas basics (DataFrame, data inspection, cleaning)
 - Simple feature engineering
 
-## Files
+### Files
 
 - day01_numpy_basics.ipynb  
   Covers NumPy arrays, vectorized operations, broadcasting, and matrix math.
@@ -46,16 +46,16 @@ This repository contains my Day 1 work for building strong Machine Learning foun
 - Bias–variance tradeoff
 - Overfitting and underfitting analysis
 
-## Key Learnings
+### Key Learnings
 - Polynomial regression captures non-linear relationships better than linear models
 - Higher model complexity can lead to overfitting if not controlled
 - Train-test split helps detect generalization issues
 - R² alone is insufficient to evaluate model performance.
 - Error-based metrics like MAE and RMSE provide real-world insight into prediction accuracy
 
-### Day 4 – Multiple Linear Regression
+## Day 4 – Multiple Linear Regression
 
-## Topics Covered
+### Topics Covered
 - Introduction to Multiple Linear Regression (MLR)
 - Mathematical formulation of MLR
 - Assumptions of linear regression
@@ -69,7 +69,7 @@ This repository contains my Day 1 work for building strong Machine Learning foun
 - Multicollinearity detection using Variance Inflation Factor (VIF)
 - Interpretation of regression coefficients
 
-## Key Learnings
+### Key Learnings
 - Multiple features improve model expressiveness compared to simple linear regression
 - Feature scaling is essential for stable and faster convergence
 - Train–test split ensures reliable performance evaluation
