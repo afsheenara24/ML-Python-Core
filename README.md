@@ -4,7 +4,7 @@ This repository contains my Day 1 work for building strong Machine Learning foun
 
 ## Day 1 – Python for Machine Learning
 
-Topics covered:
+## Topics covered:
 - Python basics for ML (functions, list comprehension, lambda)
 - NumPy fundamentals (ndarray, vectorization, broadcasting)
 - Performance comparison: loops vs vectorized operations
@@ -38,7 +38,6 @@ Topics covered:
 ##  Day 3 – Polynomial Regression & Model Evaluation
 
 ### Topics Covered
-
 - Polynomial feature transformation
 - Linear vs Polynomial Regression
 - Train-test split for model validation
@@ -57,7 +56,6 @@ Topics covered:
 ### Day 4 – Multiple Linear Regression
 
 ## Topics Covered
-
 - Introduction to Multiple Linear Regression (MLR)
 - Mathematical formulation of MLR
 - Assumptions of linear regression
