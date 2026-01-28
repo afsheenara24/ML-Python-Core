@@ -54,6 +54,31 @@ Topics covered:
 - R² alone is insufficient to evaluate model performance.
 - Error-based metrics like MAE and RMSE provide real-world insight into prediction accuracy
 
+### Day 4 – Multiple Linear Regression
+
+## Topics Covered
+
+- Introduction to Multiple Linear Regression (MLR)
+- Mathematical formulation of MLR
+- Assumptions of linear regression
+- Feature scaling and normalization
+- Multiple Linear Regression from scratch using NumPy
+- Gradient Descent optimization
+- Train–test split and data leakage prevention
+- Multiple Linear Regression using scikit-learn
+- Model evaluation using MSE and R²
+- Residual analysis
+- Multicollinearity detection using Variance Inflation Factor (VIF)
+- Interpretation of regression coefficients
+
+## Key Learnings
+- Multiple features improve model expressiveness compared to simple linear regression
+- Feature scaling is essential for stable and faster convergence
+- Train–test split ensures reliable performance evaluation
+- Residual analysis helps validate model assumptions
+- Multicollinearity negatively impacts coefficient stability and interpretability
+- Regression coefficients provide actionable insights into feature importance
+
 ## Tools Used
 
 - Python 3.10
