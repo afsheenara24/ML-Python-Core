@@ -77,6 +77,26 @@ This repository contains my Day 1 work for building strong Machine Learning foun
 - Multicollinearity negatively impacts coefficient stability and interpretability
 - Regression coefficients provide actionable insights into feature importance
 
+## Day 5 - Polynomial Regression & Bias–Variance Tradeoff
+
+### Topics Covered
+
+- Polynomial Regression
+- Feature expansion using Polynomial Features
+- Model complexity and flexibility
+- Bias–Variance Tradeoff
+- Underfitting vs Overfitting analysis
+- Effect of polynomial degree on model performance
+- Visualization of model fits for different degrees
+
+### Key Learnings
+
+- Polynomial regression captures non-linear relationships while remaining linear in parameters
+- Increasing model complexity reduces bias but increases variance
+- Low-degree models tend to underfit, while high-degree models tend to overfit
+- Visualization is crucial for understanding bias–variance behavior
+- Optimal model performance lies in balancing bias and variance for better generalization
+
 ## Tools Used
 
 - Python 3.10
