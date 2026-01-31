@@ -97,6 +97,21 @@ This repository contains my Day 1 work for building strong Machine Learning foun
 - Visualization is crucial for understanding bias–variance behavior
 - Optimal model performance lies in balancing bias and variance for better generalization
 
+## Day 6 – Regularization Techniques
+
+### Topics Covered
+- Ridge Regression (L2 Regularization)
+- Lasso Regression (L1 Regularization)
+- Elastic Net
+- Effect of alpha on model complexity
+- Feature scaling importance
+
+### Key Learnings
+- Regularization helps reduce overfitting
+- Ridge shrinks coefficients but keeps all features
+- Lasso performs feature selection
+- Elastic Net combines Ridge and Lasso benefits
+
 ## Tools Used
 
 - Python 3.10
