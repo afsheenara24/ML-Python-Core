@@ -112,6 +112,29 @@ This repository contains my Day 1 work for building strong Machine Learning foun
 - Lasso performs feature selection
 - Elastic Net combines Ridge and Lasso benefits
 
+## Day 7 – Cross-Validation & Hyperparameter Tuning
+
+### Topics Covered
+
+- Limitations of train–test split
+- K-Fold Cross-Validation
+- Bias–variance perspective of model evaluation
+- Hyperparameter tuning concepts
+- GridSearchCV
+- RandomizedSearchCV
+- Regularization tuning for Ridge, Lasso, and Elastic Net
+- ML Pipelines (Scaler + Model)
+- Data leakage prevention
+
+### Key Learnings
+
+- Single train–test split provides a high-variance estimate of model performance
+- K-Fold Cross-Validation yields more reliable and stable evaluation results
+- Proper hyperparameter tuning improves generalization performance
+- Pipelines are essential for preventing data leakage during cross-validation
+- RandomizedSearchCV is computationally efficient for large hyperparameter spaces
+- Cross-validation is critical for production-ready machine learning models
+
 ## Tools Used
 
 - Python 3.10
