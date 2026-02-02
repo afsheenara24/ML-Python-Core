@@ -1,6 +1,4 @@
-# ML-Python-Core - Day 1
-
-This repository contains my Day 1 work for building strong Machine Learning foundations using Python.
+# ML-Python-Core
 
 ## Day 1 – Python for Machine Learning
 
