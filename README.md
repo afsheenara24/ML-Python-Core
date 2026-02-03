@@ -133,6 +133,21 @@
 - RandomizedSearchCV is computationally efficient for large hyperparameter spaces
 - Cross-validation is critical for production-ready machine learning models
 
+## Day 8 – Feature Engineering & Feature Selection
+
+### Topics Covered
+- Feature scaling and power transformations
+- Handling skewed numerical features
+- Encoding categorical variables
+- Feature selection using RFE (Wrapper Method)
+- Feature selection using L1 regularization (Embedded Method)
+- Pipelines and cross-validation to avoid data leakage
+
+### Key Learnings
+- Feature engineering has a greater impact than model choice
+- Feature selection must be done after proper preprocessing
+- Pipelines are essential for production-ready ML systems
+
 ## Tools Used
 
 - Python 3.10
