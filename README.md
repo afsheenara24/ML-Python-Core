@@ -121,7 +121,7 @@
 - GridSearchCV
 - RandomizedSearchCV
 - Regularization tuning for Ridge, Lasso, and Elastic Net
-- ML Pipelines (Scaler + Model)
+- ML Pipelines 
 - Data leakage prevention
 
 ### Key Learnings
