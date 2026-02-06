@@ -100,7 +100,6 @@
 ### Topics Covered
 - Ridge Regression (L2 Regularization)
 - Lasso Regression (L1 Regularization)
-- Elastic Net
 - Effect of alpha on model complexity
 - Feature scaling importance
 
