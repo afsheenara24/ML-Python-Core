@@ -160,8 +160,3 @@
 1. Activate conda environment
 2. Open Jupyter Notebook or JupyterLab
 3. Run the notebooks cell by cell
-
-## Goal
-
-To build strong fundamentals in Python and data handling as a foundation for Machine Learning and AI projects.
-
