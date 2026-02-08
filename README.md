@@ -150,8 +150,6 @@
 ## Tools Used
 
 - Python 3.10
-- NumPy
-- Pandas
 - Jupyter Notebook
 - Conda environment
 
