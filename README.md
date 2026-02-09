@@ -147,6 +147,29 @@
 - Feature selection must be done after proper preprocessing
 - Pipelines are essential for production-ready ML systems
 
+## Day 9 – Decision Trees
+
+### Topics Covered
+
+- Intuition behind decision tree splitting
+- Impurity measures: Gini, Entropy, and MSE
+- Decision Trees for classification and regression
+- Overfitting in trees and bias–variance behavior
+- Tree regularization parameters (max_depth, min_samples_leaf, min_samples_split)
+- Handling categorical features using pipelines
+- Feature importance and its limitations
+- Hyperparameter tuning using GridSearchCV
+- Bias–variance visualization (depth vs performance)
+- Model stability analysis using different random seeds
+
+### Key Learnings
+
+- Decision trees are powerful but high-variance models
+- Unconstrained trees overfit aggressively
+- Pipelines are essential to avoid data leakage
+- Feature importance in trees is heuristic, not causal
+- Single trees are rarely used directly in production and motivate ensemble methods
+
 ## Tools Used
 
 - Python 3.10
