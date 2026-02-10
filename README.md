@@ -9,14 +9,6 @@
 - Pandas basics (DataFrame, data inspection, cleaning)
 - Simple feature engineering
 
-### Files
-
-- day01_numpy_basics.ipynb  
-  Covers NumPy arrays, vectorized operations, broadcasting, and matrix math.
-
-- day01_pandas_basics.ipynb  
-  Covers data loading, inspection, handling missing values, and feature creation.
-
 ## Day 2 – Advanced NumPy & Linear Regression
 
 ### Topics Covered
