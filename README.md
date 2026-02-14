@@ -164,6 +164,36 @@
 - Feature importance in trees is heuristic, not causal
 - Single trees are rarely used directly in production and motivate ensemble methods
 
+## Day 10 – Random Forests
+
+### Topics Covered
+
+- Limitations of single decision trees in real-world scenarios
+- Ensemble learning and bagging intuition
+- Bootstrap sampling and feature randomness
+- Random Forest algorithm for regression
+- Bias–variance behavior of Random Forests
+- Out-of-Bag (OOB) error estimation
+- Random Forest hyperparameters and their impact
+- Model evaluation using R² and residual analysis
+- Feature importance using tree-based methods
+- Permutation feature importance for robust interpretation
+- Model performance visualization:
+--- Actual vs Predicted plots
+--- Residual plots
+
+### Key Learnings
+
+- Single decision trees suffer from high variance, making them unstable in practice.
+- Random Forests reduce variance by averaging multiple de-correlated trees.
+- Bootstrap sampling and feature randomness are critical to improving generalization.
+- Random Forests provide strong performance on nonlinear tabular data with minimal feature engineering.
+- Out-of-Bag (OOB) score offers a fast and reliable internal validation method.
+- Hyperparameters like min_samples_leaf and max_features play a crucial role in controlling overfitting.
+- Visualization of predictions and residuals is essential for diagnosing model behavior.
+- Default feature importance can be misleading; permutation importance gives more trustworthy insights.
+- Random Forests are robust, production-friendly baselines but are better suited for prediction than explanation.
+
 ## Tools Used
 
 - Python 3.10
