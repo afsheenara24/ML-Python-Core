@@ -192,6 +192,30 @@
 - Default feature importance can be misleading; permutation importance gives more trustworthy insights.
 - Random Forests are robust, production-friendly baselines but are better suited for prediction than explanation.
 
+## Day 11 – Ensemble Learning: Bagging & Boosting (California Housing Dataset)
+
+### Topics Covered
+
+- California Housing dataset overview
+- Feature–target separation (X and y)
+- Train–test split for model validation
+- Decision Tree Regressor fundamentals
+- Random Forest Regressor (Bagging)
+- Gradient Boosting Regressor (Boosting)
+- Squared loss and residual learning
+- Feature importance analysis
+- Model evaluation using RMSE
+
+### Key Learnings
+
+- Decision Trees are highly flexible but prone to overfitting
+- Bagging (Random Forest) reduces variance by averaging multiple models
+- Boosting (Gradient Boosting) reduces bias by learning from previous errors
+- Gradient Boosting builds models sequentially using residuals
+- Squared loss emphasizes larger errors more strongly
+- Ensemble methods outperform single models on real-world tabular data
+- Median Income is the strongest predictor of house prices in California
+
 ## Tools Used
 
 - Python 3.10
