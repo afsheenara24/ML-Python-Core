@@ -9,7 +9,6 @@
 - Pandas basics (DataFrame, data inspection, cleaning)
 - Simple feature engineering
 
-### Key Learnings
 
 ## Day 2 – Advanced NumPy & Linear Regression
 
