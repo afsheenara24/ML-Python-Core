@@ -216,6 +216,31 @@
 - Ensemble methods outperform single models on real-world tabular data
 - Median Income is the strongest predictor of house prices in California
 
+## Day 12 – Advanced Boosting (XGBoost Deep Dive)
+
+### Topics Covered
+
+- Functional Gradient Descent in boosting
+- Residual learning and pseudo-residuals
+- Bias–variance behavior in boosting models
+- Learning rate vs number of estimators tradeoff
+- XGBoost objective function and regularization
+- Tree pruning and shrinkage
+- Early stopping mechanism
+- Feature importance analysis
+- Model diagnostics (learning curves & residuals)
+- Comparison: Gradient Boosting vs XGBoost
+
+### Key Learnings
+
+- Boosting performs gradient descent in function space.
+- Residuals represent negative gradients of the loss function.
+- Learning rate controls convergence stability and generalization.
+- XGBoost adds explicit regularization to control tree complexity.
+- Early stopping is critical to prevent overfitting.
+- Validation curves are essential for diagnosing bias–variance tradeoff.
+- XGBoost typically outperforms vanilla Gradient Boosting on tabular data.
+
 ## Tools Used
 
 - Python 3.10
