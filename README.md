@@ -241,6 +241,31 @@
 - Validation curves are essential for diagnosing bias–variance tradeoff.
 - XGBoost typically outperforms vanilla Gradient Boosting on tabular data.
 
+## Day 13 – LightGBM & Advanced Boosting Systems
+
+### Topics Covered
+
+- LightGBM algorithm and motivation behind its development
+- Differences between XGBoost and LightGBM
+- Histogram-based tree learning
+- Leaf-wise vs level-wise tree growth strategies
+- Gradient-based One-Side Sampling (GOSS)
+- Exclusive Feature Bundling (EFB)
+- Training LightGBM on the California Housing dataset
+- Train / validation / test data splitting
+- Early stopping during model training
+- Feature importance visualization
+- Training vs validation learning curves
+- Residual analysis for model diagnostics
+
+### Key Learnings
+
+- LightGBM improves gradient boosting efficiency using histogram-based split finding and optimized data structures
+- Leaf-wise tree growth allows faster loss reduction but can increase overfitting risk if not regularized
+- GOSS speeds up training by focusing on high-gradient samples while sampling less important data points
+- Exclusive Feature Bundling reduces dimensionality in sparse datasets, improving memory efficiency
+- Early stopping and validation monitoring help prevent overfitting and improve model generalization
+
 ## Tools Used
 
 - Python 3.10
