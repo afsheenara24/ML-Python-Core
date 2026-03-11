@@ -266,6 +266,26 @@
 - Exclusive Feature Bundling reduces dimensionality in sparse datasets, improving memory efficiency
 - Early stopping and validation monitoring help prevent overfitting and improve model generalization
 
+## Day 14 - CatBoost & Handling Categorical Features in Boosting
+
+### Topics Covered
+
+- CatBoost algorithm fundamentals
+- Ordered boosting and symmetric trees
+- Training CatBoost models
+- Model comparison with XGBoost and LightGBM
+- Feature importance visualization
+- Prediction vs actual analysis
+- Learning curves
+- Residual diagnostics
+
+### Key Learnings
+
+- CatBoost handles categorical features more efficiently than traditional boosting algorithms.
+- Ordered boosting reduces target leakage during training.
+- Symmetric trees improve model stability and prediction speed.
+- Diagnostic plots help understand model performance and detect potential overfitting.
+
 ## Tools Used
 
 - Python 3.10
