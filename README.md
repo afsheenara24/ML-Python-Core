@@ -286,6 +286,26 @@
 - Symmetric trees improve model stability and prediction speed.
 - Diagnostic plots help understand model performance and detect potential overfitting.
 
+## Day 15 - Stacking & Advanced Ensemble Techniques
+
+### Topics Covered
+
+- Ensemble Learning Overview
+- Bagging vs Boosting vs Stacking
+- Stacked Generalization
+- Out-of-Fold Predictions (OOF)
+- Bias-Variance Tradeoff
+- Multi-model Training Pipeline
+- Meta-learning
+
+### Key Learnings
+
+- Stacking leverages multiple models to improve performance
+- OOF predictions are critical to avoid data leakage
+- Model diversity is the backbone of effective stacking
+- Simple meta-models often perform surprisingly well
+- Stacking can outperform boosting when models capture different patterns
+
 ## Tools Used
 
 - Python 3.10
