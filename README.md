@@ -306,6 +306,57 @@
 - Simple meta-models often perform surprisingly well
 - Stacking can outperform boosting when models capture different patterns
 
+## Day 16 - AutoML (Automated Machine Learning)
+
+### Topics Covered
+
+- Introduction to AutoML
+- Automated model selection
+- Hyperparameter optimization
+- Cross-validation strategies
+- Comparison of multiple models
+
+### Key Learnings
+
+- AutoML accelerates experimentation
+- Helps in identifying strong baseline models quickly
+- Still requires human oversight for feature engineering
+
+## Day 17 - Ensemble Optimization
+
+### Topics Covered
+
+- Bagging vs Boosting
+- Stacking Ensemble
+- Cross-validation based stacking
+- Model blending
+- Overfitting control in ensembles
+
+### Key Learnings
+
+- Ensembles outperform single models in most cases
+- Stacking is powerful but requires careful validation
+- Diversity among models is crucial
+
+## Day 18 - Feature Engineering Pipeline
+
+### Topics Covered
+
+- Data cleaning
+- Feature creation
+- Feature transformation
+- Encoding categorical variables
+- Scaling & normalization
+- Pipeline automation
+- Model explainability (SHAP)
+
+### Key Learnings
+
+- Feature engineering has the biggest impact on performance
+- Pipelines improve reproducibility
+- Explainability is critical for real-world ML
+
+
 ## Tools Used
 
 - Python 3.10
